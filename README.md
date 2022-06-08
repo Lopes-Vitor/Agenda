@@ -11,10 +11,10 @@
     - Pedir o telefone
     - guardar as respostas dentro da matriz
   - Fim Enquanto
-        - Enquanto l < 10 Faca
-          - Enquanto l nao for nulo e J < l Faca
-            - Imprimir o valor da matriz
-          - Fim Enquanto
-          - Imprimir espaco vazio
-        - Fim Enquanto
+   - Enquanto l < 10 Faca
+     - Enquanto l nao for nulo e J < l Faca
+       - Imprimir o valor da matriz
+     - Fim Enquanto
+       - Imprimir espaco vazio
+   - Fim Enquanto
 - Fim
