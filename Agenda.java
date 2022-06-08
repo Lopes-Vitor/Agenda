@@ -25,19 +25,19 @@ public class Agenda {
 
 			agenda[i][x] = leitor.next(); // recebendo a resposta dentro da matriz
 
-			x++;
+			x++; // acrescentando mais 1 na variavel x
 
 			System.out.println("Digite o seu Codigo Postal: "); // imprimindo uma mensagem na tela
 
 			agenda[i][x] = leitor.next(); // recebendo a resposta dentro da matriz
 
-			x++;
+			x++; // acrescentando mais 1 na variavel x
 
 			System.out.println("Digite o seu Bairro: "); // imprimindo uma mensagem na tela
 
 			agenda[i][x] = leitor.next(); // recebendo a resposta dentro da matriz
 
-			x++;
+			x++; // acrescentando mais 1 na variavel x
 
 			System.out.println("Digite o seu Telefone: "); // imprimindo uma mensagem na tela
 
